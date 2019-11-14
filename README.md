@@ -1,2 +1,2 @@
 # helloworld
-helloworld oop  ekkalak
+helloworld go  ekkalak
